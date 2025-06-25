@@ -1,8 +1,27 @@
-5 Aspects of GEO (LLM Optimization) in Startup Marketing
-1. Site
-2. [Marketing Content](Technical Marketing Content.md)
-3. [Docs](Documentation.md)
-4. Off-Platform Activity
-5. Implementation
+# GEO (LLM Optimization) for Startup Marketing
 
-[Tooling](Tooling.md)
+> **G**enerative **E**ngine **O**ptimization - Optimizing your startup's marketing for the AI-driven search landscape
+
+## Overview
+
+As more people turn to LLMs for discovery and evaluation of new technical tooling, ensuring that your marketing strategy is ready is key! This guide offers an overview of GEO (LLM Optimization) across different company channels and houses relevant resources.
+
+## 🚀 The 5 Pillars of GEO
+
+### 1. 🏗️ Site
+
+### 2. 📝 [Marketing Content](TechnicalMarketingContent.md)
+
+### 3. 📚 [Documentation](Documentation.md)
+
+### 4. 🌐 Off-Platform Activity
+
+### 5. ⚙️ Implementation
+
+## 🛠️ Tools & Resources
+
+To measure the effectiveness of your strategy, you'll need monitoring tools. Here's an [overview of the most relevant options](Tooling.md).
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit issues, suggestions, or pull requests.
