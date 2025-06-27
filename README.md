@@ -14,7 +14,7 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 
 ### 3. 📚 [Documentation](Documentation.md)
 
-### 4. 🌐 [Off-Platform Activity](OffPlatformActivity.md]
+### 4. 🌐 [Off-Platform Activity](OffPlatformActivity.md)
 
 ### 5. ⚙️ Implementation
 
