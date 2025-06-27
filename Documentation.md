@@ -7,7 +7,7 @@ Thus, both for a use case of awareness building and for ease of use, producing g
 
 As stated by a talented tech writer in the industry, **"It's nice that people read the docs now."**
 
-## 🎯 Core Priorities for LLM-Optimized Documentation
+## 🎯 Core priorities for LLM-Optimized documentation
 
 ### 🔍 **Clarity**
 
@@ -27,7 +27,7 @@ Predictable structure also allows LLMs to provide the best results, as it follow
 
 Originality in docs structure is not rewarded.
 
-### 📦 **Self Contained**
+### 📦 **Self-contained**
 
 Information should also be self-contained between sections. When ingesting information LLMs chunk it and can't always make the connection between things listed far earlier on a page or implied from a previous page. Where it does not conflict with readability, try making your information self contained, restating the core concepts the section is covering, or keeping information that is most relevant close to each other.
 
@@ -37,7 +37,7 @@ In the same way, take caution with pronouns that reference earlier concepts: _th
 
 When in doubt, avoid making assumptions in the text. State prerequisites explicitly and when referencing other tooling, take a moment to explain what it is. LLMs work especially effectively when they deeply understand the relationships between different entities - this replaces that, this builds on that, this is similar to that, etc. 
 
-### 📝 **Text over Images**
+### 📝 **Text over images**
 
 LLMs cannot read images and thus when too much information is conveyed in a graphic, the LLMs miss that information. When possible it's best practice to either convey the information in text, or use alt text to describe what is being covered in the graphic. When referring back to what's in the image, lean on the concept of chunking, and restate in the text what the process that you are referencing from the image.
 
@@ -45,7 +45,7 @@ For example if you have a diagram about the authorization workflow (diagram left
 
 > 💡 **The key insight:** *"treat LLMs like intelligent users who can read everything but are using a text-only browser"*
 
-#### 🔐 Authorization Flow Example
+#### 🔐 Authorization flow example
 
 | 🖼️ **Image**                                | 📋 **LLM-Readable Text**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -79,7 +79,7 @@ Many companies just do this by having an additional version of the page with the
 
 There should also be an `llms.txt` file for the **entire** site that covers all of the site links in one clean doc. The `llms.txt` file has a specific format that needs to be adhered to. The originator, https://llmstxt.org/, explains on their website where it should be located, what markdown formatting it should use and provides and example.
 
-> **📋 llms.txt Specification**
+> **📋 llms.txt specification**
 > 
 > The llms.txt file spec is for files located in the root path `/llms.txt` of a website (or, optionally, in a subpath). A file following the spec contains the following sections as markdown, in the specific order:
 > 
@@ -112,7 +112,7 @@ Optional details go here
 
 You can also make an `llms-full.txt` file where you collect all of the markdown files for all of your documentation into one single massive markdown file. This can then be copied and pasted by the reader of your docs into their LLM of choice. Now the LLM doesn't even have to retrieve your docs and has everything it needs to know to generate code from your docs or help the user debug their own code that refers to your documentation.
 
-## 🌐 **Unified Platform Notes**
+## 🌐 **Unified platform notes**
 
 Ensure that all of your documentation are on a single site for easy retrieval. It may be possible that some docs may be located on your custom docs site (docs.foobar.io) while others on a docs platform (docusaurus). Alternately it could be from the process of migrating docs, or just having the information dispersed across various parts of the site (including blog, a quick start landing page etc).
 
