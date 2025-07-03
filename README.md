@@ -24,7 +24,7 @@ Test how well your site matches GEO best practices.
 
 Instructions: Paste the site URL and the GEO Rubric into your favorite LLM
 
-### 🎯[Full GEO Rubric](
+### 🎯[Full GEO Rubric](FullGeoRubric.md)
 
 Interested in diving deeper into a specific section:
 ### 🏗️📋 [Site Rubric](GeoSiteRubric.md)
