@@ -16,11 +16,8 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 
 ### 4. 🌐 [Off-Platform Activity](OffPlatformActivity.md)
 
-### 5. ⚙️ Implementation
+### 5. 👀 [Monitoring Tools and Resources](Tooling.md)
 
-## 🛠️ Tools & Resources
-
-To measure the effectiveness of your strategy, you'll need monitoring tools. Here's an [overview of the most relevant options](Tooling.md).
 
 ## To Do
 * Interactive reviewer
