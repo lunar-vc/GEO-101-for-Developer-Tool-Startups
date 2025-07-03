@@ -1,7 +1,7 @@
 The final output of all these results should be a table with columns for Site, Marketing Content, Documentation, and Off Platform Activity
 
 
-# GEO (LLM Optimization) Scoring Rubric for Developer Tools
+# GEO (LLM Optimization) Scoring Rubric for Developer Tools Main Site
 
 ## Overall Score: ___/100 points
 
