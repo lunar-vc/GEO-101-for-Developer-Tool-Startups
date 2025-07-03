@@ -108,13 +108,6 @@ Want to focus on a specific area? Use these targeted rubrics:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions!
-
-
----
-
 <div align="center">
 
 ### 🌟 **Star this repo if you find it helpful!**
