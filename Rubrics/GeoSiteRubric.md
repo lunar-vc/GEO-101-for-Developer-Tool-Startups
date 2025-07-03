@@ -1,4 +1,4 @@
-# GEO (LLM Optimization) Scoring Rubric for Developer Tools
+# Main Website GEO (LLM Optimization) Scoring Rubric for Developer Tools
 
 ## Overall Score: ___/100 points
 
