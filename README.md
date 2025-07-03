@@ -15,6 +15,7 @@
 ## 🌟 Overview
 
 As more people turn to LLMs for discovery and evaluation of new technical tooling, ensuring that your marketing strategy is ready is key! 
+
 ---
 
 ## 🚀 The 5 Pillars of GEO
