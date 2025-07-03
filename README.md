@@ -22,7 +22,10 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 ## 🤖 Interactive GEO Grader
 Test how well your site matches GEO best practices. 
 
-Instructions: Paste the site URL and the GEO Rubric into your favorite LLM
+Instructions: 
+1. Paste the site URL and the GEO Rubric into your favorite LLM
+2. This will provide an overview for the company
+3. If you are a interested in a specific section site/marketing content, documentation, or off platform activity, ask the LLM to zoom in on that and they'll offer more detail
 
 ### 🎯[Full GEO Rubric](FullGeoRubric.md)
 
@@ -33,8 +36,6 @@ Interested in diving deeper into a specific section:
 ### 🌐📋 [Off-Platform Activity](GeoOffPlatformRubric.md)
 
 ## To Do
-* Interactive reviewer
-* Writing about evaluating each topic
 * Persona suite
 
 ## Contributing
