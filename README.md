@@ -18,7 +18,10 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 
 ### 5. 👀 [Monitoring Tools and Resources](Tooling.md)
 
+
 ## 🤖 Interactive GEO Grader
+Test how well your site matches GEO best practices. 
+Instructions: Copy your site URL and the relevant rubric into your favorite LLM
 ### 🏗️📋 [Site Rubric](GeoSiteRubric.md)
 ### 📝📋 [Marketing Content Rubric](GeoMarketingContentRubric)
 ### 📚📋 [Documentation](GeoDocumentationRubric.md)
