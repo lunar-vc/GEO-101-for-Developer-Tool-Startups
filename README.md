@@ -8,7 +8,7 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 
 ## 🚀 The 5 Pillars of GEO
 
-### 1. 🏗️ Site
+### 1. 🏗️ [Site](Site.md)
 
 ### 2. 📝 [Marketing Content](TechnicalMarketingContent.md)
 
