@@ -18,6 +18,11 @@ As more people turn to LLMs for discovery and evaluation of new technical toolin
 
 ### 5. 👀 [Monitoring Tools and Resources](Tooling.md)
 
+## 🤖 Interactive GEO Grader
+### 🏗️📋 [Site Rubric](GeoSiteRubric.md)
+### 📝📋 [Marketing Content Rubric](GeoMarketingContentRubric)
+### 📚📋 [Documentation](GeoDocumentationRubric.md)
+### 🌐📋 [Off-Platform Activity](GeoOffPlatformActivityRubric.md)
 
 ## To Do
 * Interactive reviewer
