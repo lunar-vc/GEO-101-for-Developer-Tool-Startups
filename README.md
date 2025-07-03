@@ -110,18 +110,8 @@ Want to focus on a specific area? Use these targeted rubrics:
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help:
+We welcome contributions!
 
-<div align="center">
-
-| Type | How to Contribute |
-|------|------------------|
-| 🐛 **Bug Reports** | [Submit an Issue](../../issues) |
-| 💡 **Feature Requests** | [Open a Discussion](../../discussions) |
-| 📝 **Documentation** | [Create a Pull Request](../../pulls) |
-| 🔧 **Code Improvements** | [Fork & PR](../../fork) |
-
-</div>
 
 ---
 
