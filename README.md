@@ -96,7 +96,22 @@ Want to focus on a specific area? Use these targeted rubrics:
 </div>
 
 ---
+## 🤝 Feedback and Contributions
 
+Let's make this a living document! Share your feedback, suggestions, and collaborate. 
+
+<div align="center">
+
+| Type | How to Contribute |
+|------|------------------|
+| 📝 **Feedback - what did you think?** | [Open a Discussion](../../discussions) |
+| 💡 **Feature Requests** | [Open a Discussion](../../discussions) |
+| 🐛 **Bug Reports** | [Submit an Issue](../../issues) |
+| 🔧 **Improvements** | [Fork & PR](../../fork) |
+
+</div>
+
+---
 ## 🛠️ Roadmap
 
 <details>
