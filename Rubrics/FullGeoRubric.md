@@ -1,4 +1,11 @@
-The final output of all these results should be a table with columns for Site, Marketing Content, Documentation, and Off Platform Activity
+
+# Usage Instructions for LLM Evaluation:
+- Read through the ENTIRE RUBRIC. There are 4 seperate rubrics below.
+- The final output of all these results should be a table with columns for Site, Marketing Content, Documentation, and Off Platform Activity
+- The overall score should be out of 400 points, 100 points for each rubric and category. 
+- Score each section based on the criteria provided
+- Provide specific feedback on areas needing improvement
+- Identify top 3 priority overall recommendations for optimization
 
 
 # GEO (LLM Optimization) Scoring Rubric for Developer Tools Main Site
