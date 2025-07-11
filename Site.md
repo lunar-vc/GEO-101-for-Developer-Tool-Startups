@@ -25,7 +25,7 @@ Specifically, these topics include the importance of text that:
 - ❓ contains FAQs, as this directly correlate to how people ask questions of LLMs
 - 📈 uses quotes and statistics, which LLMs often include in their response. Both original and well-sourced existing quotes and stats.
 
-For best results, take a moment to read through the short [[FINAL- GEO for Technical Marketing Content (formerly SEO fuel)]].
+For best results, take a moment to read through the short [Marketing Content overview](https://github.com/etelsv/GEO/blob/main/TechnicalMarketingContent.md).
 
 ## 🏗️ Structure and Language
 
