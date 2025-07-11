@@ -54,7 +54,7 @@ Conversely, if one page calls it platform, the other a framework, and yet anothe
 
 Unify your terminology at the outset and maintain an internal glossary of terms. This can be automated with a handy prompt:
 
-` [**Your Website Here**]"Review this content and create a 'terminology guide' that lists: 1. The main product/feature names we use 2. Key phrases that appear multiple times 3. Any jargon or technical terms we define 4. Recommended standard language for each concept Then flag anywhere we deviate from these standards.
+` [**Your Website Here**]"Review this content and create a 'terminology guide' that lists: 1. The main product/feature names we use 2. Key phrases that appear multiple times 3. Any jargon or technical terms we define 4. Recommended standard language for each concept Then flag anywhere we deviate from these standards.`
 
 
 ## 📝 Content
