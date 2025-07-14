@@ -195,7 +195,7 @@ What are some other things other folks might do mentioning $YourTool?
 
 Generating such a list may offer some additional activities that you can more easily affect.
 
-## 🎭 Activities of others you can affect (in pure marketing speak: "converged channels")
+## 🎭 Activities of others you can affect 
 
 Below are three active ways to influence other people's visibility about you of different difficulties.
 
