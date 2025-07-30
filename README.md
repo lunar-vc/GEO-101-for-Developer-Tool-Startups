@@ -7,6 +7,7 @@
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Author](https://img.shields.io/badge/author-Etel%20F-lightgrey.svg)](https://www.linkedin.com/in/etelfr/)
 
 </div>
 
@@ -128,6 +129,5 @@ Let's make this a living document! Share your feedback, suggestions, and collabo
 
 ### 🌟 **Star this repo if you find it helpful!**
 
-*Built with ❤️ by [Etel Friedmann](https://www.linkedin.com/in/etelfr/) for the portfolio companies of Lunar Ventures*
-
-</div>
+*Made with ❤️ for the portfolio companies of Lunar Ventures.*
+  </div>
