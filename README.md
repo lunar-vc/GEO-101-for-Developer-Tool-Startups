@@ -128,6 +128,6 @@ Let's make this a living document! Share your feedback, suggestions, and collabo
 
 ### 🌟 **Star this repo if you find it helpful!**
 
-*Built with ❤️ for the portfolio companies of Lunar Ventures*
+*Built with ❤️ by [Etel Friedmann](https://www.linkedin.com/in/etelfr/) for the portfolio companies of Lunar Ventures*
 
 </div>
