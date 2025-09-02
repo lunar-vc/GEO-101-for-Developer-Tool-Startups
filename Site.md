@@ -302,7 +302,7 @@ This is a topic that one can dive very deeply into. For more actionable next ste
 
 ## 📈 Tracking
 
-In a former SEO dominated world, you could see people visiting your website from Google SEO efforts, from links found across the web, and from direct traffic within your analytics tool of choice. Now with more links coming from LLMs, you can segment that traffic using some premade regex:
+In a former SEO dominated world, you could see people visiting your website from Google SEO efforts, from links found across the web, and from direct traffic within your analytics tool of choice. Now with more links coming from LLMs, you can segment that traffic using some premade regex (source: [Reddit post](https://www.reddit.com/r/OpenAI/comments/1jlt5yi/easy_way_to_track_chatgpt_traffic_in_google/))
 
 ```
 ^.*\.openai.*|.*copilot.*|.*chatgpt.*|.*gemini.*|.*gpt.*|.*neeva.*|.*writesonic.*|.*nimble.*|.*perplexity.*|.*google.*bard.*|.*bard.*google.*|.*bard.*|.*edgeservices.*|.*bnngpt.*|.*gemini.*google.*|.*claude.*|.*anthropic.*$
@@ -325,3 +325,4 @@ Note: This is the flip side of monitoring the brand mentions using an LLM tool, 
 - https://semking.com/json-ld-google-tag-manager-no-ssr-invisible-ai-crawlers/
 - https://www.airops.com/blog/using-ai-to-improve-seo-exploring-internal-links-and-backlinks
 - https://github.com/romansky/dom-to-semantic-markdown?tab=readme-ov-file
+- https://www.reddit.com/r/OpenAI/comments/1jlt5yi/easy_way_to_track_chatgpt_traffic_in_google/
