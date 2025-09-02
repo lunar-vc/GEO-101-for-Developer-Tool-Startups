@@ -4,7 +4,7 @@
 | ----------------------------------------------------------- | ------------------------ | ------------------------------------------------------------------------- | -------------------------------- |
 | [https://www.tryprofound.com](https://www.tryprofound.com/) | $499                     | ChatGPT, Perplexity, Google AI Overviews, Microsoft Copilot | MongoDB, Clay,<br>Zapier, Indeed |
 | [peec.ai](http://peec.ai/)                                  | €89                      | ChatGPT/Perplexity/GAIO (additional paid addons)                          |                                  |
-| https://rankscale.ai/                                       | none listed              | Mistral, ChatGPT, Perplexity, Claude, Gemini, Deepseek                    |                                  |
+| https://rankscale.ai/                                       | €20             | Mistral, ChatGPT, Perplexity, Claude, Gemini, Deepseek                    |                                  |
 | https://scrunchai.com/                                      | $300                     | ChatGPT, Perplexity, Claude, Meta AI, Gemini, GAIO                        | Crunchbase, Lenovo, Skims        | 
 | https://www.bluefishai.com/                                 | none listed              | Perplexity, ChatGPT, Gemini, Anthropic, Amazon(?)                         | Still closed platform            | 
 | https://knowatoa.com/                                       | free starter plan        | ChatGPT                                                                   |                                  |
